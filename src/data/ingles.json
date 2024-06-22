@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Curso Básico de Inglés",
+        "slug": "curso-basico-ingles",
+        "description": "Aprende los fundamentos del idioma inglés para comunicarte efectivamente en situaciones cotidianas.",
+        "picture": "https://www.estudiaingles.org/wp-content/uploads/2021/10/curso-ingles-nivel-intermedio-560x293.jpg"
+    },
+    {
+        "name": "Taller de Inglés Intermedio",
+        "slug": "taller-ingles-intermedio",
+        "description": "Mejora tus habilidades en el idioma inglés y amplía tu vocabulario con nuestro taller intermedio.",
+        "picture": "https://diagonalenglish.com/wp-content/uploads/2018/06/Por-que-hacer-un-curso-de-ingles.jpg"
+    },
+    {
+        "name": "Certificación en Inglés de Negocios",
+        "slug": "certificacion-ingles-negocios",
+        "description": "Obtén competencia en inglés de negocios y mejora tus perspectivas laborales con nuestro programa de certificación.",
+        "picture": "https://languageadvantage.ca/wp-content/uploads/2020/09/shutterstock_343329656.png"
+    }
+]

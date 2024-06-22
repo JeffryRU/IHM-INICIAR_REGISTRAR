@@ -1,0 +1,173 @@
+body {
+    background-color: #E1E6E1;
+    color: #E1E6E1;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #3B5998;
+    color: #ffffff;
+}
+
+.navbar {
+    background-color: #3B5998;
+}
+
+.navbar-brand,
+.nav-link {
+    color: #ffffff;
+}
+
+.nav-link:hover {
+    color: #ff6f00;
+}
+
+.form-control {
+    border: 1px solid #dcdcdc;
+}
+
+.btn-outline-success {
+    color: #87A330;
+    border-color: #87A330;
+}
+
+.btn-outline-success:hover {
+    background-color: #87A330;
+    color: #ffffff;
+}
+
+hr {
+    border: 0;
+    height: 1px;
+    background: #dcdcdc;
+    margin: 0;
+}
+
+.footer {
+    background-color: #3B5998;
+    color: #ffffff;
+}
+
+.footer a {
+    color: #ff6f00;
+}
+
+.footer a:hover {
+    color: #ffffff;
+}
+
+.footer .btn-floating {
+    background-color: #87A330;
+    border-radius: 50%;
+}
+
+.footer .btn-floating:hover {
+    background-color: #ff6f00;
+}
+
+.footer .text-body {
+    color: #E1E6E1;
+}
+
+.footer .text-body:hover {
+    color: #ffffff;
+}
+
+.aside .card {
+    background-color: #C1DBDF;
+    border: 1px solid #dcdcdc;
+}
+
+.aside .card-title {
+    color: #C1DBDF;
+}
+
+.aside .form-control {
+    border: 1px solid #dcdcdc;
+}
+
+.aside .form-text {
+    color: #6c757d;
+}
+
+.aside .btn-primary {
+    background-color: #87A330;
+    border-color: #87A330;
+}
+
+.aside .btn-primary:hover {
+    background-color: #ff6f00;
+    border-color: #ff6f00;
+}
+
+.main .card {
+    background-color: #C1DBDF;
+    border: 1px solid #dcdcdc;
+    margin-bottom: 20px;
+}
+
+.main .card-title {
+    color: #87A330;
+}
+
+.main .card-subtitle {
+    color: #6c757d;
+}
+
+.main .btn-primary {
+    background-color: #87A330;
+    border-color: #87A330;
+}
+
+.main .btn-primary:hover {
+    background-color: #ff6f00;
+    border-color: #ff6f00;
+}
+
+.main .carousel .carousel-item {
+    cursor: pointer;
+}
+
+.main .carousel .carousel-caption .card {
+    background-color: rgba(0, 0, 0, 0.75);
+    color: #ffffff;
+}
+
+.main .carousel .carousel-caption .card .btn-primary {
+    background-color: #87A330;
+    border-color: #87A330;
+}
+
+.main .carousel .carousel-caption .card .btn-primary:hover {
+    background-color: #ff6f00;
+    border-color: #ff6f00;
+}
+
+.main .carousel img {
+    filter: brightness(1);
+}
+
+.feather-size {
+    width: 16px;
+    height: 16px;
+}
+
+.feather-center {
+    align-items: center;
+}
+
+.espacio {
+    margin-bottom: 5px;
+}
+
+.header-style {
+    font-family: 'Arial', sans-serif;
+}
+
+.navbar {
+    border-bottom: 5px solid #9AC2C9;
+}
+
+.lin {
+    border-bottom: 5px solid #9AC2C9;
+}
